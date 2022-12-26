@@ -13,6 +13,6 @@ An example of the documentation carried out by this document can be observed bel
 
 **Statistics**
 
-The current version of this document is: **v1.1.1.1**.
-This document was Last revised on: **26th December 2022**.
-The number of issues this document currently documents is: **1**.
+- The current version of this document is: **v1.1.1.1**.
+- This document was Last revised on: **26th December 2022**.
+- The number of issues this document currently documents is: **1**.
