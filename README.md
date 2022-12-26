@@ -7,7 +7,7 @@ An example of the documentation carried out by this document can be observed bel
 
 ---
 
-![Example of a documented issue in the CCISBP document](https://user-images.githubusercontent.com/98128904/209578213-7cf5906c-9d09-466f-b0b6-c43e7741ca99.png)
+![Example of a documented issue in the CCISBP document](https://user-images.githubusercontent.com/98128904/209580844-f637e691-baa7-4a30-a8ad-3cf032ad07f7.png)
 
 ---
 
